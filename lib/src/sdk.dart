@@ -4,7 +4,7 @@ import 'dart:typed_data';
 
 import 'package:ffi/ffi.dart';
 
-import 'def.dart';
+import 'func_def.dart';
 import 'error.dart';
 import 'models/frame_configuration.dart';
 import 'models/ir_image.dart';
