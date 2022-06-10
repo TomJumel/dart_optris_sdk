@@ -1,5 +1,5 @@
 name: optris_connect_sdk
-description: Optris ffi adater for Optris Connect SDK
+description: Optris ffi adapter for Optris Connect SDK
 version: 1.0.0
 repository: "https://github.com/TomJumel/dart_optris_sdk"
 
